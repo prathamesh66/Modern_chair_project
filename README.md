@@ -1,6 +1,6 @@
 * Modern Chair Project App
 
-The Modern Chair Project App is a web application showcasing a collection of modern chair designs. Users can explore different chair styles, view detailed descriptions, and get inspired for their interior design projects. The app features a sleek and user-friendly interface, providing an enjoyable browsing experience.
+The Modern Chair Project App is a web application showcasing a collection of modern chair designs. Users can explore different chair styles, view detailed descriptions, and get inspired for their interior design projects. The app features a sleek and user-friendly interface, providing an enjoyable browsing experience..
 
 * Features
   
